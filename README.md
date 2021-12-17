@@ -1,4 +1,6 @@
-### hello! My name is **Patrick**, I´m a Developer, Programmer, Data Scientist and Econometrician. 
+<p align="center">
+ <img height="240em" width="800" src="https://github.com/pwguimar/pwguimar/blob/main/assets/Github%20(1).gif" alt="Hello, I'm Patrick from Brazil">
+</p>
 <div align="center">
   <a href="https://github.com/pwguimar">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
