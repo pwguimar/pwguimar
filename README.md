@@ -1,5 +1,5 @@
 <p align="center">
- <img height="240em" width="800" src="https://github.com/pwguimar/pwguimar/blob/main/assets/Github%20(1).gif" alt="Hello, I'm Patrick from Brazil">
+ <img height="260em" width="800" src="https://github.com/pwguimar/pwguimar/blob/main/assets/Github%20(1).gif" alt="Hello, I'm Patrick from Brazil">
 </p>
 <div align="center">
   <a href="https://github.com/pwguimar">
