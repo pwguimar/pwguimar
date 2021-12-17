@@ -1,4 +1,4 @@
-### Hello! My name is **Patrick**, I´m a Developer, Programmer, Data Scientist, Econometrician or none of that. But I hope you find something useful around here!
+### Hello! My name is **Patrick**, I´m a Developer, Programmer, Data Scientist, Econometrician. 
 <div align="center">
   <a href="https://github.com/pwguimar">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
