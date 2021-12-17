@@ -1,8 +1,8 @@
 ## Hello! My name is Patrick, I´m a developer/programmer/data scientist.
 <div align="center">
   <a href="https://github.com/pwguimar">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwguimar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwguimar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
