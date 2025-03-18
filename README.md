@@ -12,8 +12,8 @@ Passionate about **data**, **automation**, and **web development**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,issues,contribs" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=pwguimar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,issues,contribs" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
