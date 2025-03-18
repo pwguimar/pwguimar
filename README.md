@@ -19,7 +19,7 @@ Passionate about **data**, **automation**, and **web development**.
 ---
 
 ## 📫 Get in touch:
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rsqlpython@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:probabilidade@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pwguimar/)
 
 ---
