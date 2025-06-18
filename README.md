@@ -1,6 +1,6 @@
 # Hello, I'm Patrick! 👋
 
-**Data Scientist & Backend Developer** with skills in Python and data analysis.
+**Data Scientist & Backend Developer** with skills in Python and data analysis. Passionate about data, automation, and web development.
 
 ## 🛠 Tech Stack
 
