@@ -35,11 +35,11 @@
 
 ## 🚀 Project Highlights
 
-### 🔍 Data Science Projects
+### 🔍 Data Science Projects (top 03)
 <!-- Adicione seus projetos futuros aqui -->
 - `Em breve: Projetos de análise de dados e machine learning`
 
-### 🌐 Web Development
+### 🌐 Web Development (top 03)
 <!-- Adicione seus projetos futuros aqui -->
 - `Em breve: Aplicações Node.js e sistemas backend`
 
