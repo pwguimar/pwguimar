@@ -22,12 +22,11 @@
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
   <a href="https://github.com/pwguimar">
-    <img height="165em" src="https://github-readme-stats-i3c5hnhw2-pwguimars-projects.vercel.app/api?username=pwguimar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api?username=pwguimar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <img height="165em" src="https://github-readme-stats-i3c5hnhw2-pwguimars-projects.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css,scss" />
+  <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css,scss" />
 </div>
 
 <div align="center">
