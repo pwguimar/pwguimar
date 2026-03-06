@@ -24,9 +24,9 @@
 
 <div align="center">
   <a href="https://github.com/pwguimar">
-    <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api?username=pwguimar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api?username=pwguimar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36&locale=pt-br&line_height=24&include_all_commits=true&count_private=true" />
   </a>
-  <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css,scss" />
+  <img height="165em" src="https://github-readme-stats-dun-eight-92.vercel.app/api/top-langs/?username=pwguimar&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36&locale=pt-br&langs_count=6&hide=html,css,scss" />
 </div>
 
 <div align="center">
